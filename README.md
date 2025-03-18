@@ -29,7 +29,7 @@ The primary aim was to provide insight into how to manage employees and reach bu
 - Friday among rest of the days of week is the day with the number 13% of employee chooses for WFH shift.
 - Monday And Tuesday are days when more number of employees ask for the sick leave .
 - Alexander Davenport and Alyson Huber are only two Employees with 100% Attendance.
-- California is state with highest number of sales.
+  
 
  
 
