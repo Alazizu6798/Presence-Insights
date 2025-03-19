@@ -11,7 +11,7 @@ The primary aim was to provide insight into how to manage employees and reach bu
 - Use Visulizations tool for charts and filters for filtering the dashboard.
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, , Area chart, Cards, Matrix chart, etc
-- Dashboard Interaction <a href="https://github.com/Alazizu6798/HR-Analytics/blob/main/Screenshot%202025-03-18%20144815.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/HR-Analytics/blob/main/HR%20Analytics.pbix">View Dashboard</a>
 
 # Process
 - Verified data for any missing values and anomalies.
