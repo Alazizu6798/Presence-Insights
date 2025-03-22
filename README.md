@@ -1,4 +1,4 @@
-# HR-Analytics
+# Presence Insights
 
 # Project Objective
 The primary aim was to provide insight into how to manage employees and reach business goals in best ways. To monitor key HR metrics on employees and identify what factors impact attrition.
