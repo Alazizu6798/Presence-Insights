@@ -25,9 +25,9 @@ The primary aim was to provide insight into how to manage employees and reach bu
 ![Screenshot(495)](https://github.com/Alazizu6798/HR-Analytics/blob/main/Screenshot%202025-03-18%20144815.png)
 
 # Project Insights 
-- Presence percentage is highest on first day of week which is Monday.
-- Friday among rest of the days of week is the day with the number 13% of employee chooses for WFH shift.
-- Monday And Tuesday are days when more number of employees ask for the sick leave .
+- Presence percentage is highest on first day of the week.
+- Friday is the day where maximum employees with 13% chooses for WFH shift.
+- Monday And Tuesday are the days when more number of employees ask for the sick leave .
 - Alexander Davenport and Alyson Huber are only two Employees with 100% Attendance.
   
 
